@@ -1,0 +1,20 @@
+﻿@*
+	This is a comment inside of a view
+*@
+@{
+	//you can make C# comments and write C# code in here
+}
+@*
+	Tell the view what typer of data is being passed to it from the controller
+*@
+@model List<Employee>
+<h2>This is the employee Index Page</h2>
+
+@foreach(Employee e in Model){
+	<p>ID: @e.Id</p>
+	<p>First Name: @e.FirstName</p>
+	<p>Last Name: @e.LastName</p>
+	<p>Employee ID: @e.EmployeeId</p>
+	<p>Phone: @e.Phone</p>
+	<p>Active: @e.Active</p>
+}

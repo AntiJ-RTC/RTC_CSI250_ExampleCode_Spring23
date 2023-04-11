@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RTC_JEROME\\.nuget\\packages\\": {}
+    "C:\\Users\\SEPT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\Documents\\!RTC\\2022-2023\\Spring '23\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\IntroToDotNet.csproj",
+      "projectUniqueName": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\IntroToDotNet.csproj",
       "projectName": "IntroToDotNet",
-      "projectPath": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\Documents\\!RTC\\2022-2023\\Spring '23\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\IntroToDotNet.csproj",
-      "packagesPath": "C:\\Users\\RTC_JEROME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\Documents\\!RTC\\2022-2023\\Spring '23\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\obj\\",
+      "projectPath": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\IntroToDotNet.csproj",
+      "packagesPath": "C:\\Users\\SEPT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week1\\IntroToDotNet\\IntroToDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RTC_JEROME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SEPT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

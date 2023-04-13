@@ -1,7 +1,11 @@
+using MVCBasics.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+// Register the service with the services container
+builder.Services.AddSingleton<IEncryptionService, EncryptionService>();
 
 var app = builder.Build();
 

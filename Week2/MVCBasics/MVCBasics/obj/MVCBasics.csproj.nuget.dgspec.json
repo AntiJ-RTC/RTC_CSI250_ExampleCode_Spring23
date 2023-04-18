@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj": {}
+    "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj": {
+    "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj",
+        "projectUniqueName": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj",
         "projectName": "MVCBasics",
-        "projectPath": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj",
-        "packagesPath": "C:\\Users\\RTC_JEROME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RTC_JEROME\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\obj\\",
+        "projectPath": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\MVCBasics.csproj",
+        "packagesPath": "C:\\Users\\SEPT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SEPT\\OneDrive - Renton Technical College\\CSI250\\RTC_CSI250_ExampleCode_Spring23\\Week2\\MVCBasics\\MVCBasics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RTC_JEROME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SEPT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
